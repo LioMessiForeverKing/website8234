@@ -92,7 +92,7 @@ export const Projects = () => {
       points: ["Audience Engagement Analysis", "Content Creation Strategy", "Monetization and Revenue Generation"]
     },
     {
-      title: "",
+      title: "Want to get 10k followers on Instagram",
       description: "Project skills",
       imgUrl: projImg12,
       points: ["Social Media Marketing", "Audience Engagement and Analytics", "Branding and Digital Presence Management"]
